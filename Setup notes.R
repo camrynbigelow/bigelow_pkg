@@ -13,7 +13,7 @@ git config --global user.email "camryn.bigelow@selu.edu"
   use_git()
 <<<<<<< HEAD
 #whatever the positive option is
-create_github_token("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")
+
 gitcreds::gitcreds_set()
 =======
 3 whatever the positive option is
