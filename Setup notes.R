@@ -6,7 +6,7 @@ library(tidyverse)
 
 Terminal:
   git config --global user.name "Camryn Bigelow"
-git config --global user.email "camryn.bigelow@selu.edu"
+git config --global user.email "email"
 
 
 #R:
